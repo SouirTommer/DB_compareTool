@@ -28,3 +28,8 @@ Install the required Python packages by running `pip install -r requirements.txt
 ## Usage
 
 Run [`main.py`] to start the application. Follow the graphical user interface prompts to select the databases, schemas, and tables you wish to compare.
+
+## Screenshot
+![image](https://github.com/user-attachments/assets/3dd9f784-3272-46fa-b3bb-1b07e4baec0a)
+![image](https://github.com/user-attachments/assets/b931ca81-ac37-4787-b05f-714bbdfc7e76)
+
